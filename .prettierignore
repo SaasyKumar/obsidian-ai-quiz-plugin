@@ -1,0 +1,19 @@
+# Build output
+main.js
+
+# Dead Vite leftovers — kept only for git history, not formatted
+tsconfig.app.json
+tsconfig.node.json
+vite.config.ts
+index.html
+src/App.tsx
+src/App.css
+src/index.css
+src/main.tsx
+src/assets/
+
+# Dependencies
+node_modules/
+
+# Misc
+.DS_Store

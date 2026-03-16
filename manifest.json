@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-ai-quiz-plugin",
+  "name": "GenQuiZ",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Generate and load AI-powered MCQ quizzes inside Obsidian.",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

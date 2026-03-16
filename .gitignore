@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output (Obsidian loads main.js directly from repo root)
+# Do NOT ignore main.js if you want to commit the built plugin.
+# Uncomment the line below only if you build before every install.
+# main.js
+
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Lock file (keep or remove per preference)
+package-lock.json
+
+# TypeScript incremental build info
+*.tsbuildinfo
+dist-ts/
+
+main.js
